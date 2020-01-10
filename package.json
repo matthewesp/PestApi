@@ -2,9 +2,9 @@
   "name": "bugsapi",
   "version": "1.0.0",
   "description": "This is an API containing information about different types of insects that can be found in pest control",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "node index.js"
+    "test": "node server.js"
   },
   "repository": {
     "type": "git",
